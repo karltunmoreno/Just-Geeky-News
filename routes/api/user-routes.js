@@ -22,25 +22,7 @@ router.get('/:id', (req, res) => {
     },
 
     // replace the existing `include` with this
-    include: [
-      {
-        model: Post,
-        attributes: ['id', 'title', 'post_url', 'created_at']
-      },
-      {
-        model: Post,
-        attributes: ['title'],
-        through: Vote,
-        as: 'voted_posts'
-      }
-
-
-
-
-
-
-
-    ]
+     
   })
     .then(dbUserData => {
       if (!dbUserData) {
