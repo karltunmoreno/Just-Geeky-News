@@ -2,6 +2,13 @@
 Just Tech News
 Title: Create a homepage
 
+
+###LINK
+
+https://protected-lowlands-09239.herokuapp.com/
+
+
+
 User Stories:
 
   * As a user, I can view all news articles in a list.
