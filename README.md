@@ -1,6 +1,7 @@
 # Just-Geeky-News
 Just Tech News
 Title: Create a homepage
+For this module, you'll continue to use the same just-tech-news repository as before. Navigate to your repository on GitHub and create the following new GitHub issues:
 ###LINK
  ![Ss]()
  _________________________________________________________________________________________________________________________________________________________________
