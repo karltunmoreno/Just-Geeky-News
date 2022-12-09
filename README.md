@@ -2,7 +2,7 @@
 Just Tech News
 Title: Create a homepage
 ###LINK
-![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/TechBlog.jpg)
+![Ss]()
 
 
 https://protected-lowlands-09239.herokuapp.com/
