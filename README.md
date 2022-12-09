@@ -7,7 +7,21 @@ Title: Create a homepage
 
 https://protected-lowlands-09239.herokuapp.com/
 
+###OBJECTIVE
 
+Write your own middleware functions for Express.js.
+
+Use middleware to restrict access to certain routes.
+
+Looking back on the module as a whole, you also learned how to:
+
+Organize a codebase following the MVC paradigm.
+
+Create templates with Handlebars.js to reduce the amount of front-end JavaScript needed.
+
+Implement built-in and custom helpers in Handlebars.js to help with formatting.
+
+Store and use data saved on a back-end session.
 
 User Stories:
 
@@ -43,3 +57,5 @@ User Stories:
   * As a logged-in user, I can create new article posts via the dashboard.
 
   * As a logged-in user, I can edit or delete my existing articles via the dashboard.
+
+
