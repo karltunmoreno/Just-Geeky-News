@@ -1,7 +1,7 @@
 # Just-Geeky-News
 Just Tech News
 
-This application and website is used for creating and sharing blog posts centered around a technology social site. Allows users to view, edit and delete their posts and view and comment on the posts of others.
+This application and website is used for creating and sharing blog posts centered around a technology social site. Allows users to view, edit and delete their posts and view and comment on the posts of others. Utilizes Node.js and Express.js to create and manage a server for a blog post sharing webiste.
 
 ________________________________________________________________________________________________________________________________________________________________
 
@@ -14,7 +14,7 @@ ________________________________________________________________________________
  ![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/Justgeekynewspic1.jpg)
  _________________________________________________________________________________________________________________________________________________________________
 
-# Utilizes Node.js and Express.js to create and manage a server for a blog post sharing webiste.
+
 
  ### NPM Packages:
 
